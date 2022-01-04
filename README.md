@@ -23,11 +23,7 @@ const aboutMe = {
 };
 ```
 
-</br></br>
-
-<h2>Full Stack Web and App Developer</h2>
-
-<h2>Github stats :bar_chart:</h2>
+</br></br
 
 <h4>Top langs :tongue:</h4>
 
