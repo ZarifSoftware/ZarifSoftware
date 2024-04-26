@@ -1,10 +1,10 @@
 # Hi, There
-I am Zarifprogrammer. A Full Stack Web and App Developer.
+I am Zarif Sadman. A Full Stack Web and App Developer.
 
 ```javascript
 const aboutMe = {
    name: "Sadman Zarif",
-   jobTitle: "Owner",
+   jobTitles: ["Founder", "Developer", "Freelancer", "Designer"],
    company: "ZS Software Studio",
    email: "zarif@zarifprogrammer.com",
    website: "https://studio.zarifprogrammer.com",
@@ -13,17 +13,18 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          js: ["React", "React Native", "Angular", "Vanilla JS"],
+         dart: ["Flutter"],
          css: ["Bootstrap", "Material Design", "Tailwind CSS"]
       },
       backEnd: {
-         js: ["Node", "Express"],
+         js: ["Node", "Express", "NextJS"],
          python: ["Django", "Flask"],
          php: ["Laravel", "Raw PHP", "WordPress"],
       },
-      databases: ["MongoDB", "MySQL", "PostgreSQL", "Firebase"],
+      databases: ["MongoDB", "MySQL", "PostgreSQL", "Firebase", "Supabase"],
       mobile: ["Android", "IOS"],
       wordpress: ["Elementor", "WooCommerce", "Astra", "OceanWP", "Elementor Pro", "Tutor LMS"],
-      prototype: ["Blender", "Figma", "Spline"]
+      prototype: ["Blender", "Figma", "Spline", "Adobe XD", "Sketch"]
    }
 };
 ```
