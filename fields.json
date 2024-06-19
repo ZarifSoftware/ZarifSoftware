@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Mustang Stadium",
+    "category": "football",
+    "schedule": "8:00 pm - Tuesday, Sept 3",
+    "playersCount": 10
+  },
+  {
+    "name": "South Grass Field",
+    "category": "table-tennis",
+    "schedule": "8:00 pm - Tuesday, Sept 3",
+    "playersCount": 1
+  },
+  {
+    "name": "South Grass Field",
+    "category": "football",
+    "schedule": "10:00 pm - Tuesday, Sept 3",
+    "playersCount": 8
+  },
+  {
+    "name": "Owings Mills East",
+    "category": "hockey",
+    "schedule": "8:00 pm - Tuesday, Sept 3",
+    "playersCount": 5
+  },
+  {
+    "name": "Owings Mills East",
+    "category": "basketball",
+    "schedule": "8:00 pm - Tuesday, Sept 2",
+    "playersCount": 7
+  },
+  {
+    "name": "Owings Mills East",
+    "category": "table-tennis",
+    "schedule": "9:00 pm - Tuesday, Sept 4",
+    "playersCount": 0
+  },
+  {
+    "name": "Indoor Volleyball Court",
+    "category": "voleyball",
+    "schedule": "8:00 pm - Tuesday, Sept 3",
+    "playersCount": 8
+  }
+  {
+    "name": "Indoor Volleyball Court",
+    "category": "basketball",
+    "schedule": "8:00 pm - Tuesday, Sept 5",
+    "playersCount": 8
+  }
+]
